@@ -1,0 +1,8 @@
+.gitconfig
+.gitignore_global
+.bashrc
+.bash_logout
+.profile
+.ssh
+.local
+.config
